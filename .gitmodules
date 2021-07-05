@@ -1,0 +1,3 @@
+[submodule "docs/rust-learning-notes"]
+	path = docs/rust-learning-notes
+	url = https://github.com/Willendless/Rust-Adventure
